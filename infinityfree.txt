@@ -1,0 +1,4 @@
+username = epiz_29061346_phpdasar
+password = wx1jYwDiMMP
+NIM = 2110016040
+pass = 440090
